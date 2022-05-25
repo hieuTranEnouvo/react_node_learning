@@ -14,3 +14,4 @@ yarn add @fortawesome/react-fontawesome@latest
 # date
 
 yarn add react-date-range
+yarn add date-fns
